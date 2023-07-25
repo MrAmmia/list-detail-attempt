@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">List-Panel Attempt</string>
+    <string name="opened_drawer">Drawer Opened</string>
+    <string name="closed_drawer">Drawer Closed</string>
+    <string name="load_error">Can\'t get words</string>
+    <string name="retry">Retry</string>
+    <string name="home_tap_to_load_content">Tap to load content</string>
+    <string name="article_share_post">Share post</string>
+    <string name="cd_navigate_up">Navigate up</string>
+    <string name="unbookmark">unbookmark</string>
+    <string name="bookmark">bookmark</string>
+    <string name="cd_share">Share</string>
+    <string name="cd_text_settings">Text settings</string>
+</resources>
